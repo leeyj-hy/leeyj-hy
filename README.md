@@ -1,15 +1,15 @@
 ### Welcome to YJ's Github 👋
 
-###Robotics Engineer
--Major in Robot Engineering @ Hanyang University. ERICA
--Research Intern at AIRO Lab @ Hanyang University. ERICA
+### Robotics Engineer
+- Major in Robot Engineering @ Hanyang University. ERICA
+- Research Intern at AIRO Lab @ Hanyang University. ERICA
 
-###Interested in
--Mobile Robot Engineering using ROS
+### Interested in
+- Mobile Robot Engineering using ROS
 
-###Recent work
--Automatic EV Recharging robot / Vision Recognition part using Fiducial Marker
--WCR(Wall Climbing Robot) / Ductfan Control and Sensor test part
+### Recent work
+- Automatic EV Recharging robot / Vision Recognition part using Fiducial Marker
+- WCR(Wall Climbing Robot) / Ductfan Control and Sensor test part
 
 
 <!--
