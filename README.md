@@ -14,8 +14,8 @@
 ### Recent work
 - Automatic EV Recharging robot / Vision Recognition part using Fiducial Marker
 - WCR(Wall Climbing Robot) / Ductfan Control and Sensor test part
-- Soler-bot / Google API, YOUOv5 based sound recognition and vision tracking
-- Cart-attach Mobile Module / Electronic Architecture, PCB Artwork and Low Level Controller
+- Soler-bot / Google API, YOLOv5 based sound recognition and vision tracking
+- Cart-attach Mobile Module / Main Controller, Joystick - Electronic Architecture, PCB Artwork and Low Level Controller
 
 <!--
 **leeyj-hy/leeyj-hy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
